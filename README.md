@@ -8,17 +8,9 @@ I work across the boundary between engineering leadership and hands-on delivery.
 
 ## Some helpful tools i've built
 
-### [Website Asset Generator](https://github.com/Cboybebop/Website_Asset_Generator)
-A browser-based React tool for creating website favicons and Open Graph preview images from uploaded artwork.
-
-### [JiraStopWatch-Python](https://github.com/Cboybebop/JiraStopWatch-Python)
-Python desktop application for Jira Cloud time tracking that supports multiple active timers, persistent session state and direct worklog submission through the Jira REST API.
-
-### [RedirectionIOProjectSync](https://github.com/Cboybebop/RedirectionIOProjectSync)
-Python desktop GUI for comparing Redirection.IO exports, generating import-ready deltas and reporting configuration drift between environments.
-
-### [ConsentModeChecker](https://github.com/Cboybebop/ConsentModeChecker)
-A web application that helps non-technical users understand and audit their Google Consent Mode v2 implementation and presenting clear, jargon free explanations.
+| [Website Asset Generator](https://github.com/Cboybebop/Website_Asset_Generator)<br>A browser-based React tool for creating website favicons and Open Graph preview images from uploaded artwork. 	| [RedirectionIOProjectSync](https://github.com/Cboybebop/RedirectionIOProjectSync)<br>Python desktop GUI for comparing Redirection.IO exports, generating import-ready deltas and reporting configuration drift between environments. 	|
+|:---:	|:---:	|
+| **[JiraStopWatch-Python](https://github.com/Cboybebop/JiraStopWatch-Python)<br>Python desktop application for Jira Cloud time tracking that supports multiple active timers, persistent session state and direct worklog submission through the Jira REST API.** 	| **[ConsentModeChecker](https://github.com/Cboybebop/ConsentModeChecker)<br>A web application that helps non-technical users understand and audit their Google Consent Mode v2 implementation and presenting clear, jargon free explanations.** 	|
 
 ## Selected Stack
 
