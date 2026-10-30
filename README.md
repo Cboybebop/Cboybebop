@@ -6,11 +6,48 @@ Head of Technical Engineering focused on building reliable products, improving d
 
 I work across the boundary between engineering leadership and hands-on delivery. That includes shaping technical direction, supporting teams and building tools that simplify complex workflows. I am most effective when connecting platforms, systems and people: designing internal tooling, streamlining integration-heavy processes and shipping solutions that reduce friction for the teams using them.
 
-## Some helpful tools i've built
+## Development Tools Highlights
 
-| [Website Asset Generator](https://github.com/Cboybebop/Website_Asset_Generator)<br>A browser-based React tool for creating website favicons and Open Graph preview images from uploaded artwork. 	| [RedirectionIOProjectSync](https://github.com/Cboybebop/RedirectionIOProjectSync)<br>Python desktop GUI for comparing Redirection.IO exports, generating import-ready deltas and reporting configuration drift between environments. 	|
-|:---:	|:---:	|
-| **[JiraStopWatch-Python](https://github.com/Cboybebop/JiraStopWatch-Python)<br>Python desktop application for Jira Cloud time tracking that supports multiple active timers, persistent session state and direct worklog submission through the Jira REST API.** 	| **[ConsentModeChecker](https://github.com/Cboybebop/ConsentModeChecker)<br>A web application that helps non-technical users understand and audit their Google Consent Mode v2 implementation and presenting clear, jargon free explanations.** 	|
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cboybebop/Website_Asset_Generator"><strong>Website Asset Generator</strong></a><br>
+      A browser-based React tool for creating website favicons and Open Graph preview images from uploaded artwork.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cboybebop/RedirectionIOProjectSync"><strong>RedirectionIOProjectSync</strong></a><br>
+      Python desktop GUI for comparing Redirection.IO exports, generating import-ready deltas and reporting configuration drift between environments.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cboybebop/JiraStopWatch-Python"><strong>JiraStopWatch-Python</strong></a><br>
+      Python desktop application for Jira Cloud time tracking that supports multiple active timers, persistent session state and direct worklog submission through the Jira REST API.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Cboybebop/ConsentModeChecker"><strong>ConsentModeChecker</strong></a><br>
+      A web application that helps non-technical users understand and audit their Google Consent Mode v2 implementation, presenting clear, jargon-free explanations.
+    </td>
+  </tr>
+</table>
+
+## Game Projects Highlights
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://toys-in-the-attic.itch.io/jungle-jumper-gba">
+        <img src="https://img.itch.zone/aW1nLzMxNTc0OTEyLnBuZw==/360x286%23c/05sRJE.png" alt="Jungle Jumper GBA" width="360"><br>
+        <img src="https://img.shields.io/badge/itch.io-Jungle%20Jumper%20GBA-31CE73?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=00526B" alt="Play on itch.io" width="360">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://toys-in-the-attic.itch.io/cards-of-fortune">
+        <img src="https://img.itch.zone/aW1nLzMxNTQwODYwLnBuZw==/360x286%23c/NAof8e.png" alt="Cards of Fortune" width="360"><br>
+        <img src="https://img.shields.io/badge/itch.io-Cards%20of%20Fortune-72ABF5?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=182939" alt="Play on itch.io" width="360">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Selected Stack
 
